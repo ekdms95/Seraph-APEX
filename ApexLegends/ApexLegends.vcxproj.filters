@@ -1,0 +1,120 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Header">
+      <UniqueIdentifier>{}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source">
+      <UniqueIdentifier>{}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Directx11">
+      <UniqueIdentifier>{}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ChaoticUI">
+      <UniqueIdentifier>{}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="include">
+      <UniqueIdentifier>{86dd2920-8f2d-4e72-9307-1219b8199ebc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="English Version">
+      <UniqueIdentifier>{098dd32e-a2fa-4746-8f8e-86c0193dfe1b}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Drawer.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="main.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="Vectors.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="xorstr.hpp">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="Communication.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="Structs.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="Updated ChaoticUI\ChaoticUI.h">
+      <Filter>ChaoticUI</Filter>
+    </ClInclude>
+    <ClInclude Include="ChaoticUI_impl_dx11.h">
+      <Filter>ChaoticUI</Filter>
+    </ClInclude>
+    <ClInclude Include="Updated ChaoticUI\ChaoticUI_internal.h">
+      <Filter>ChaoticUI</Filter>
+    </ClInclude>
+    <ClInclude Include="Updated ChaoticUI\stb_rect_pack.h">
+      <Filter>ChaoticUI</Filter>
+    </ClInclude>
+    <ClInclude Include="Updated ChaoticUI\stb_textedit.h">
+      <Filter>ChaoticUI</Filter>
+    </ClInclude>
+    <ClInclude Include="Updated ChaoticUI\stb_truetype.h">
+      <Filter>ChaoticUI</Filter>
+    </ClInclude>
+    <ClInclude Include="Updated ChaoticUI\ChaoticUIconfig.h">
+      <Filter>ChaoticUI</Filter>
+    </ClInclude>
+    <ClInclude Include="QAngle.hpp">
+      <Filter>ChaoticUI</Filter>
+    </ClInclude>
+    <ClInclude Include="dd.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="include\c0gnito.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="include\AuthLib.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="include\response.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="Offset.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="lazy_importer.hpp">
+      <Filter>Source</Filter>
+    </ClInclude>
+    <ClInclude Include="Skcrypt.h">
+      <Filter>Source</Filter>
+    </ClInclude>
+    <ClInclude Include="stb_image.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="Renderer.cpp">
+      <Filter>Directx11</Filter>
+    </ClCompile>
+    <ClCompile Include="Vectors.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="Updated ChaoticUI\ChaoticUI.cpp">
+      <Filter>ChaoticUI</Filter>
+    </ClCompile>
+    <ClCompile Include="Updated ChaoticUI\ChaoticUI_draw.cpp">
+      <Filter>ChaoticUI</Filter>
+    </ClCompile>
+    <ClCompile Include="ChaoticUI_impl_dx11.cpp">
+      <Filter>ChaoticUI</Filter>
+    </ClCompile>
+    <ClCompile Include="dd.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Library Include="include\c0gnito.lib">
+      <Filter>include</Filter>
+    </Library>
+    <Library Include="include\Auth.lib">
+      <Filter>include</Filter>
+    </Library>
+  </ItemGroup>
+</Project>
