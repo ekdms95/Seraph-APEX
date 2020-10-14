@@ -1,6 +1,6 @@
 # Seraph-APEX
 
-I just uploaded my source bcuz it is detected and i do not play apex anymore.
+I JUST UPLOADED MY SHIT TRASH SOURCE BCUZ IT IS DETECTED AND I DO NOT PLAY APEX ANYMORE.
 
 ### Menus
 
