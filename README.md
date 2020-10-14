@@ -16,6 +16,8 @@ I JUST UPLOADED MY SHIT TRASH SOURCE BCUZ IT IS DETECTED AND I DO NOT PLAY APEX 
 * AIMBOT
 * NO RECOIL
 * 2D RADAR
+* SPECTATOR CHECK
+* AND MORE
 
 ### This is Trash
 * This code are trash and There's a lot of C&P codes of functions.
